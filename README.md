@@ -1,4 +1,4 @@
-# A/B Testing
+# A/B Testing for an ad campaign
 Perform an A/B Test for an ad campaign using python
 
 Tools:
