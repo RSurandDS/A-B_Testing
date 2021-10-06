@@ -1,5 +1,6 @@
 # A/B Testing for an ad campaign
-Perform an A/B Test for an ad campaign using python
+
+We will perform an A/B test to advise a company on whether they should go for the new or not.
 
 Tools:
 
