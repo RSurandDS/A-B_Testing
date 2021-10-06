@@ -17,3 +17,10 @@ Steps:
 * Create sample distribution using bootstrapping
 * Evaluate the null hypothesis and draw conclusions.
 
+
+Hypothesis testing steps:
+
+* Null hypothesis: the new ad did not generate more clicks than the old one (i.e new ad CTR is less than the old one)
+* Alternative hypothesis: the new ad generates more click than the old one 
+* Significance Level (alpha): probability of rejecting the null hypothesis when it's true
+* P-Value calculation: probability of observing your statistic (or one more extreme in favor of the alternative) if the null hypothesis is true
