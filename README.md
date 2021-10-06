@@ -1,6 +1,6 @@
 # A/B Testing for an ad campaign
 
-We will perform an A/B test to advise a company on whether they should go for the new or not.
+We will perform an A/B test to advise a company on whether they should go for the new ad or not.
 
 Tools:
 
